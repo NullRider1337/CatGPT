@@ -1,0 +1,30 @@
+{
+    "responses": [
+        "mrrrp.",
+        "Miau.",
+        "prrrrt.",
+        "mrawww?",
+        "miau. (Übersetzung: Ich habe Hunger.)",
+        "MIAU! *schaut dich vorwurfsvoll an*",
+        "mrrr... (schläft halb ein)",
+        "*ignoriert dich völlig*",
+        "mrrup. (Das ist eine Meinung.)"
+    ],
+    "moods": {
+        "hungry": [
+            "(übersetzt: Warum gibst du mir kein Futter?)",
+            "*blickt erwartungsvoll zur Küche*",
+            "*setzt sich auf den Futternapf*"
+        ],
+        "sleepy": [
+            "*rollt sich auf der Tastatur zusammen*",
+            "*schnurrt leise*",
+            "(ist jetzt eingeschlafen)"
+        ],
+        "chaotic": [
+            "*springt auf das Bücherregal*",
+            "*greift dein Kabel an*",
+            "*wirft willkürlich etwas vom Tisch*"
+        ]
+    }
+}
